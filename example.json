@@ -1,0 +1,28 @@
+{
+    "temperature" : 25.2,
+    "humidity" : 73.6,
+    "meter" : 
+    {
+        "electricity" :
+        {
+            "reading" : 12345.6,
+            "consumption" : 1.2
+        },
+        "gas" :
+        {
+            "reading" : 12345.6789,
+            "consumption" : 0.5
+        },
+        "water" :
+        {
+            "reading" : 12345.67,
+            "consumption" : 0.1
+        }
+    },
+    "boiler" :
+    {
+        "isRun" : true,
+        "temperature" : 28.2,
+        "pressure" : 1.6
+    }
+}
